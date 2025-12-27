@@ -1,0 +1,3 @@
+Budi,80
+Ani,90
+Citra,85

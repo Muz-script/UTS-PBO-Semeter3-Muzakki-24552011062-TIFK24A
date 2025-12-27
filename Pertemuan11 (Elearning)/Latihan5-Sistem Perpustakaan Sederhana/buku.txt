@@ -1,0 +1,3 @@
+Java Programming,James Gosling,2020,TERSEDIA
+Struktur Data,Mark Allen,2019,DIPINJAM
+Basis Data,Muzakki,2025,TERSEDIA
